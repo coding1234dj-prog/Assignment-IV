@@ -6,3 +6,6 @@ assignemt 4
 rsync -av 是 Linux/MacOS 才有的指令                   在windows中用       cp -r  address                                  
 tree -L 2 AssignmentIV 是 Linux/MacOS 的指令         在windows中用        tree AssignmentIV /F   
                   
+
+
+windows  用visual studio code 架設C/C++環境失敗
