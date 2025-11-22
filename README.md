@@ -8,8 +8,8 @@ tree -L 2 AssignmentIV 是 Linux/MacOS 的指令         在windows中用       
                   
 
 17：00
-windows  用visual studio code 架設C/C++環境失敗
-Linux    架設成功      
-需要crtl + shift + b 編譯成 exe才可以執行        
+windows  用visual studio code 架設C/C++環境失敗                      
+Linux    架設成功                     
+需要crtl + shift + b 編譯成 exe才可以執行                  
 
 19：00 
