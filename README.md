@@ -13,6 +13,8 @@ Linux    架設成功
 需要crtl + shift + b 編譯成 exe才可以執行                  
 
 19：00                     
+                  
 *31 的解釋                     
+                      
 <img width="918" height="1096" alt="image" src="https://github.com/user-attachments/assets/8d42e946-7c99-41cf-88b9-c3b3691558c9" />
 
